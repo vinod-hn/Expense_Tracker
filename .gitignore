@@ -1,0 +1,23 @@
+# Build artifacts
+/build/
+/sources.txt
+/compile_errors.txt
+/ExpenseTracker.jar
+
+# IDE settings
+/.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Libraries (keep folder, ignore jars)
+/lib/*
+!lib/README.md
+
+# Backup / temp
+*~
